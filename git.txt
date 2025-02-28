@@ -29,3 +29,17 @@ git config --global user.email waldivamprogramadorweb21@gmail.com
 6- git log
 
 7- git commit -m "Envio do Projeto"
+
+8- Se criar um documento faz esses processos:
+git add "git.txt"
+git commit -m "nova edicao do arq git.txt"
+
+log
+
+9- inicia o github e cria new project e adiciona esses comandos:
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/waldivamweb21/PythonSimples.git
+git push -u origin main
+
+
