@@ -23,8 +23,8 @@ git add .gitignore
 git config username and email
 
 5a- Usa esses comandos:   
-git config --global user.name "wal"
-git config --global user.email waldevpython@gmail.com
+git config --global user.name "waldivamweb21"
+git config --global user.email waldivamprogramadorweb21@gmail.com
 
 6- git log
 
