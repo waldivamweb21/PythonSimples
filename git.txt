@@ -40,6 +40,10 @@ log
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/waldivamweb21/PythonSimples.git
+
+# Criando um novo arq e add ao GIT:
+git add "coloca o nome do arquivo"
+git commit -m "first commit"
 git push -u origin main
 
 
