@@ -1,3 +1,5 @@
+# A Tupla: So tem o valor. e utiliza o par de parenteses ().
+
 #tupla: não ordena os itens...
 musicaLista = ("Vou te levar", "nega jurema", "aonde quer que vá", "sonifera  ilha", "vencedor")
 
