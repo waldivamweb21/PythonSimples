@@ -1,0 +1,23 @@
+#modulos nativos do python
+
+# site com os modulos python: https://docs.python.org/3/py-modindex.html
+
+#comandos para abrir o shell e ver os modulos nativos do python:
+
+phyton
+
+help('modules')
+
+#1-comandos para abrir o shell e ver os modulos nativos do python:
+
+phyton3
+
+help('os')
+
+#sair clica:
+
+q
+
+# sair do shell
+ctrl + d 
+
