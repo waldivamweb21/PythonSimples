@@ -1,0 +1,36 @@
+Para comentar várias linhas de código no Visual Studio Code (VS Code) em inglês, 
+pode usar os comandos "Ctrl + K, Ctrl + C". Para descomentar, 
+pode usar "Ctrl + K, Ctrl + U". 
+
+Explicação 
+
+    1-Selecione as linhas que pretende comentar
+    2-Pressione "Ctrl + K"
+    3-Pressione "Ctrl + C"
+
+#Como mudar todas as palavras selecionadas de uma só vez no VScode
+
+Há três formas:
+
+1 - Seleção de Linhas
+
+Você consegue colocar vários cursores pressionando Alt+Click no local que deseja adicionar
+ um novo curso, realizar uma ação, como adicionar letras ou remover, 
+ o VScode faz isso em todos os cursores ativos:
+
+Você consegue colocar novos cursores pressionando Shift+Alt+Down e Shift+Alt+Down. 
+Estes atalhos põem um novo cursor exatamente na mesma posição do primeiro uma linha 
+a baixo e uma linha acima respectivamente.
+
+Uma outra opção é selecionar a palavra que quer, depois pressionar alt+D, 
+cada vez que apertar alt+D ele vai selecionando essa palavra por todo seu projeto, 
+ai depois é só digitar a nova que ele substitui em tudo.
+
+
+
+Seleciona a palavra que deseja alterar e pressiona as teclas: CTRL + SHIFT + L, 
+todas as palavras correspondentes serão selecionadas, daí é só digitar a palavra nova.
+
+Se precisar remover alguma palavra dentre todas as selecionadas, 
+aperta e segura na tecla ALT e clica na palavra a ser excluída da seleção.
+
