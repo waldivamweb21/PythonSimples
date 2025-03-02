@@ -41,9 +41,19 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/waldivamweb21/PythonSimples.git
 
+git remote add origin https://github.com/waldivamweb21/flatFundamentos.git
+
+
 # Criando um novo arq e add ao GIT:
 git add "coloca o nome do arquivo"
 git commit -m "first commit"
 git push -u origin main
 
-
+Depois de criado o repositorios no git hub usa esses comandos como exemplo:
+echo "# flatFundamentos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/waldivamweb21/flatFundamentos.git
+git push -u origin main 
